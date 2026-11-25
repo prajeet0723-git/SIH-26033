@@ -126,5 +126,3 @@ e-NAM – National Agriculture Market: https://enam.gov.in/
 Digital India: https://www.digitalindia.gov.in/
 Django Documentation: https://docs.djangoproject.com/
 Scikit-learn Documentation: https://scikit-learn.org/
-Remove These Lines
-1. Details / Links of the reference and research work
